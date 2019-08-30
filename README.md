@@ -1,7 +1,7 @@
 ﻿# [MDM9607](https://github.com/sochub/MDM9607) 
 [![sites](SoC/qitas.png)](http://www.qitas.cn)
-#### 厂商：[lattice](https://github.com/sochub/lattice)
-#### 归类：[FPGA](https://github.com/sochub/FPGA)
+#### 厂商：[qualcomm](https://github.com/sochub/qualcomm)
+#### 归类：[cortex A](https://github.com/sochub/CA)
 #### 收录芯片定级：[Level](https://github.com/sochub/Level)
 ### [描述](https://github.com/sochub/MDM9607/wiki) 
 
@@ -28,6 +28,6 @@
 
 ### [选型建议](https://github.com/sochub)
 
-高性能SOC平台，可以运行容器环境，相对MT2625拥有性能优势
+高性能SOC平台，可以运行容器环境，相对 [MT2625](https://github.com/sochub/MT2625)拥有性能优势
 
 ###  [SoC资源平台](http://www.qitas.cn)   
