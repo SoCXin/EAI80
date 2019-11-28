@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.qitas.cn) 
 
 #### [Vendor](https://github.com/sochub/Vendor)：[qualcomm](https://github.com/sochub/qualcomm) 
-#### [ARM](https://github.com/sochub/ARM)：[cortex A53](https://github.com/sochub/CA53)
+#### [ARM](https://github.com/sochub/ARM)： 
 #### [Level](https://github.com/sochub/Level)：
 
 ## [芯片描述](https://github.com/sochub/MDM9607/wiki) 
