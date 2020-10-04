@@ -3,8 +3,8 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 #### [Vendor](https://github.com/SoCXin/Vendor)：[Edgeless](https://github.com/SoCXin/Edgeless)
-#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4f](https://github.com/SoCXin/CM4)
-#### [Level](https://github.com/SoCXin/Level)：200Mhz x 500DMIPS/1.25DMIPS/MHz (Dhrystone2.1)
+#### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4F](https://github.com/SoCXin/CM4)
+#### [Level](https://github.com/SoCXin/Level)：2 x 200MHz x 1.25DMIPS/MHz
 
 ## [芯片描述](https://github.com/SoCXin/EAI80/wiki)
 
@@ -25,12 +25,9 @@
 
 #### 相关型号封装
 
-* EAI60 – QFN40 with 2MB SDRAM
-* EAI68 – QFN40 with 8MB SDRAM
-* EAI80 – QFN80 with 8MB SDRAM
-* EAI88 – LQFP128
-* EAI90 – LQFP144
-* EAI98 – LQFP176
+* EAI60 – QFN40 (2MB SDRAM)
+* EAI68 – QFN40 (8MB SDRAM)
+* EAI80 – QFN80 (8MB SDRAM)
 
 ### [收录资源](https://github.com/SoCXin/EAI80)
 
@@ -39,6 +36,6 @@
 
 ### [选型建议](https://github.com/SoCXin)
 
-[EAI80](https://github.com/SoCXin/EAI80)是一款新的边缘计算体系MCU，集成NPU，属于市场和应用探索的产品
+[EAI80](https://github.com/SoCXin/EAI80)是一款新的边缘计算体系MCU，集成NPU，可应用于语音控制，计算机视觉-物体和生物(脸，身体，姿势)的检测和识别，vSLAM，边缘计算等。
 
 ###  [SoC芯平台](http://www.SoC.Xin)
