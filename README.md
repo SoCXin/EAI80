@@ -2,9 +2,9 @@
 
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
-#### [Vendor](https://github.com/SoCXin/Vendor)：[Edgeless](https://github.com/SoCXin/Edgeless)
+#### [Vendor](https://github.com/SoCXin/Vendor)：[Gree](https://github.com/SoCXin/Gree)
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4F](https://github.com/SoCXin/CM4)
-#### [Level](https://github.com/SoCXin/Level)：2 x 200MHz x 1.25DMIPS/MHz
+#### [Level](https://github.com/SoCXin/Level)：2x200MHz (1.25DMIPS/MHz)
 
 ## [芯片描述](https://github.com/SoCXin/EAI80/wiki)
 
@@ -22,12 +22,6 @@
 * 2x SPIs, full-duplex synchronous and single-wire bidirectional mode and 4- to 16-bit word frames
 * 1x CAN 2.0B interfaces
 * 1x USB 2.0 full-speed device/host/OTG controller with off-chip PHY
-
-#### 相关型号封装
-
-* EAI60 – QFN40 (2MB SDRAM)
-* EAI68 – QFN40 (8MB SDRAM)
-* EAI80 – QFN80 (8MB SDRAM)
 
 ### [收录资源](https://github.com/SoCXin/EAI80)
 
