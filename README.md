@@ -4,7 +4,7 @@
 
 #### [Vendor](https://github.com/SoCXin/Vendor)：[Gree Edgeless](https://github.com/SoCXin/Gree)
 #### [Core](https://github.com/SoCXin/Cortex)：[Cortex M4](https://github.com/SoCXin/CM4)
-#### [Level](https://github.com/SoCXin/Level)：2 x 200MHz x 1.25DMIPS/MHz
+#### [Level](https://github.com/SoCXin/Level)：2 x 200MHz x 1.25DMIPS/MHz (500DMIPS) , CNN-NPU @ 300MHz 300GOPS
 
 ## [简介](https://github.com/SoCXin/EAI80/wiki)
 
@@ -38,7 +38,6 @@
 
 [EAI80](https://github.com/SoCXin/EAI80)是一款新的边缘计算体系MCU，集成NPU，可应用于语音控制，计算机视觉-物体和生物(脸，身体，姿势)的检测和识别，vSLAM，边缘计算等。
 
-相关竞品包括 [K210](https://github.com/SoCXin/K210)
-
+后续缺乏相应支持，生态不够完善，个人开发较难。
 ###  [www.SoC.xin(芯)](http://www.SoC.Xin)
 
